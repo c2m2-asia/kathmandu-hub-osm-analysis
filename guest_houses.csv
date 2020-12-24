@@ -1,0 +1,293 @@
+unique_id,osmid,element_type,name,tourism,comment,contact:email,contact:phone,contact:website,website,wheelchair,designation,phone,source,internet_access,addr:city,addr:country,addr:housenumber,addr:postcode,addr:state,addr:street,contact:phone:2,opening_hours,short_name,operator,email,name:en,name:ru,note,toilets:wheelchair,description,smoking,name:he,wlan,internet_access:fee,name:zh,rooms,name:de,name:it,name:hi,name:fr,name:ja,name:es,guest_house,nodes,building,stars,building:adjacency,building:age,building:condition,building:geological_site,building:lateral:material,building:lateral:system,building:levels,building:levels:underground,capacity:persons,fixme,roof:material,roof:shape,amenity,Household Code,Household Info By,addr:housename,addr:suburb,beds,name:new,internet_access:ssid,addr:tole,facility,timestamp,completeness_score
+node/354455096,354455096,node,Rollo,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2015-12-01T21:18:14Z,1.0
+node/564125541,564125541,node,Dakshinkali Resort,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2009-11-14T20:11:00Z,1.0
+node/575231594,575231594,node,Tibet Peace Guest House,guest_house,lacksadaisical service;about US$12 a night,tpghouse@wlink.com.np,+97714381026,http://www.tibetpeace.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2016-08-24T14:07:30Z,1.0
+node/708987883,708987883,node,International Guesthouse,guest_house,,,,,http://www.ighouse.com/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2010-08-27T14:46:51Z,1.0
+node/990902907,990902907,node,Taleju Guesthouse,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2010-11-16T08:37:53Z,1.0
+node/990902909,990902909,node,Shiva Guesthouse,guest_house,,,,,,limited,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2012-12-09T07:07:14Z,1.0
+node/990902912,990902912,node,Sunny Guesthouse,guest_house,,,,,,limited,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2012-10-17T07:57:58Z,1.0
+node/990902925,990902925,node,Pagoda Guesthouse,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2012-10-04T04:56:25Z,1.0
+node/1349658486,1349658486,node,Namaskar,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-01-22T15:35:25Z,1.0
+node/1349680694,1349680694,node,Lhasa,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2015-04-25T18:52:55Z,1.0
+node/1349680726,1349680726,node,Norling Guesthouse,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2015-05-10T08:31:19Z,1.0
+node/1349697686,1349697686,node,Annapurna,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2011-07-04T22:07:25Z,1.0
+node/1349697696,1349697696,node,Souvenir,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2011-07-04T22:07:25Z,1.0
+node/1349697725,1349697725,node,Dolphin,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2011-07-04T22:07:26Z,1.0
+node/1418994798,1418994798,node,Ananda Café and Guesthouse,guest_house,,,,,http://www.yurgan.net/urfree/panauti.nepal/cafe-ananda/ananda-cafe.html,,Guesthouse,(977) 01-621-1924,Garmin Orgeon 450 GPS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2011-09-11T17:49:09Z,1.0
+node/1493239868,1493239868,node,Nirvana,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-03-11T08:50:30Z,1.0
+node/1551745116,1551745116,node,Haus Namaste,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2011-12-20T09:45:49Z,1.0
+node/1904311761,1904311761,node,Third world guest house,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2012-09-07T14:43:01Z,1.0
+node/1942507855,1942507855,node,Khwopa guest house,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2013-03-22T09:59:02Z,1.0
+node/1963991189,1963991189,node,Pacific Guest House,guest_house,,,,,,,,,,wlan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-05-20T16:49:15Z,1.0
+node/1977487467,1977487467,node,Mero Hotel Eco Home,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2012-10-22T04:05:11Z,1.0
+node/1982425178,1982425178,node,View Point Guest House and Sekuwa Corner,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2012-10-25T04:14:10Z,1.0
+node/2019359183,2019359183,node,Shivapuri Cottage Restaurant and Hotel,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2012-11-18T07:22:21Z,1.0
+node/2029494528,2029494528,node,Tings Tea Lounge and Hotel,guest_house,,Tingsreservations@gmail.com,,,Tingsblog.com,,,+977014414497,,,Kathmandu,NP,322,00977,Central Region,Nursery Galli,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2013-01-26T18:25:01Z,1.0
+node/2090627606,2090627606,node,Dream Garden Inn,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2013-01-01T07:25:36Z,1.0
+node/2172675224,2172675224,node,Tanhaun Langhali Guest House,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-11-26T08:47:56Z,1.0
+node/2210859291,2210859291,node,Ganesh Guest House,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2013-03-20T06:24:45Z,1.0
+node/2214458012,2214458012,node,Himalayan Guest House,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2013-03-22T09:58:58Z,1.0
+node/2218658280,2218658280,node,The Sparkling Turtle Backpackers Hostel,guest_house,,,014033736,http://www.thesparklingturtle.com/,,,,,,wlan,,,,,,,+977 9813 56 4272,24/7,Sparkling Turtle,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-04-25T13:35:15Z,1.0
+node/2262423357,2262423357,node,Lami Dada,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2013-07-05T09:43:25Z,1.0
+node/2276471383,2276471383,node,Norwegian House,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2013-04-22T05:59:53Z,1.0
+node/2324993817,2324993817,node,Karma Guest House,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2013-05-30T03:03:03Z,1.0
+node/2330252356,2330252356,node,Hotel Panauti,guest_house,,,,,,no,,,,,,,,,,,,,,sonam,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2013-06-03T06:29:17Z,1.0
+node/2508829423,2508829423,node,Trinity Guest House,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2013-10-25T21:05:42Z,1.0
+node/3138749475,3138749475,node,Hira,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2014-10-19T16:57:37Z,1.0
+node/3138768242,3138768242,node,Blue Mountain,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2014-10-19T17:07:12Z,1.0
+node/3155747903,3155747903,node,Nepal Scouts Training Camp,guest_house,,,,,,,,,,,,,,,,,,,,Nepal Scouts,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2014-10-29T05:16:25Z,1.0
+node/3307481392,3307481392,node,Kirtipur Guest House,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-11-26T10:07:09Z,1.0
+node/3307546636,3307546636,node,Newa Civilization Guest house,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2015-01-24T13:27:00Z,1.0
+node/3416542472,3416542472,node,Asmita Bed and Breakfast,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-11-28T10:59:16Z,1.0
+node/3448045793,3448045793,node,Kathmandu Peace,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2015-04-10T06:47:29Z,1.0
+node/3476798419,3476798419,node,Jhule Mountain Resort,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2015-04-25T16:59:49Z,1.0
+node/3477018023,3477018023,node,Namaste,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2015-04-25T18:52:53Z,1.0
+node/3479634380,3479634380,node,Rokopa Guest house,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2015-04-26T19:34:07Z,1.0
+node/3480343693,3480343693,node,Shechen Guesthouse,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2019-04-28T19:44:32Z,1.0
+node/3480344951,3480344951,node,Lotus,guest_house,,,,,,,,,,wlan,,,,,,,,,,Dhabzang gompa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2016-10-23T13:25:26Z,1.0
+node/3480344952,3480344952,node,Pema,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2015-12-08T17:04:01Z,1.0
+node/3486820243,3486820243,node,PRK,guest_house,,,,,,,,4914911  4915955,,wlan,,,,,,Phulbari street,,,,,prkguesthouse@yahoo.com,Pal Rabten Khangsar guesthouse,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2019-11-28T08:26:05Z,1.0
+node/3486820244,3486820244,node,Happiness,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2015-06-30T08:47:16Z,1.0
+node/3486820245,3486820245,node,Dragon Guesthouse,guest_house,,,,,,,,+977 15178162,,,,,,,,,,,,,dragonguesth@gmail.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2019-07-10T22:22:51Z,1.0
+node/3488413728,3488413728,node,Nepal Youth Hostel,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2015-04-30T09:13:40Z,1.0
+node/3506712478,3506712478,node,Lucien,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2015-05-09T10:37:35Z,1.0
+node/3508175155,3508175155,node,Himal Lodge,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2015-05-10T08:31:17Z,1.0
+node/3626541687,3626541687,node,Cyber,guest_house,,,,,,,,,,,,,,,,,,,,,,Кибер Гостевой дом,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-03-18T09:05:38Z,1.0
+node/3626541688,3626541688,node,Stupa,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2015-12-05T09:48:53Z,1.0
+node/3626551799,3626551799,node,Kailash,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2015-06-30T08:47:16Z,1.0
+node/3640850664,3640850664,node,Swayambhu View,guest_house,,,,,https://www.facebook.com/SwayambhuViewGuestHouse/,,,+9779803000844,,wlan,,,600/179,44620,,Devithan Galli,,24/7,,,swayambhu.view.gh@gmail.com,Swayambhu View Guest House,Сваямбу Вью Гестхаус,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-11-29T05:38:22Z,1.0
+node/3640898941,3640898941,node,Dhakhwa House,guest_house,,,,,http://www.dhakhwahouse.com,,,+97715538990,,,Patan,,314,,,Khachhen,,,,Prakash Dhakhwa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2015-07-08T12:58:40Z,1.0
+node/3691564912,3691564912,node,Shakya House,guest_house,,,,,www.shakyahouse.com,,,"+977 1 5260266 , +977 9841280625",,,Lalitpur Municipality,,,44600,,Chakupat,,,,Shakya House,,,,"Tourist Accommodation, Bed & Breakfast",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2015-08-11T15:19:58Z,1.0
+node/3877763445,3877763445,node,Baudha Stupa View,guest_house,,,,,,yes,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2020-10-06T09:22:19Z,1.0
+node/3877763477,3877763477,node,Happiness,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2015-12-05T09:48:53Z,1.0
+node/3877763478,3877763478,node,Khasyor,guest_house,,,,,,,,4491482,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2015-12-05T09:52:38Z,1.0
+node/3877763479,3877763479,node,Kunzom,guest_house,,,,,www.khumbuhotel.com.np,yes,,4916241,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-10-05T02:29:46Z,1.0
+node/3877763480,3877763480,node,Yoga,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2015-12-05T09:36:36Z,1.0
+node/3877763910,3877763910,node,Comfort,guest_house,,,,,,,,4461275,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2015-12-05T09:48:52Z,1.0
+node/4113062889,4113062889,node,Danphe Ghar Bed & Breakfast,guest_house,,,,,www.danfeghar.com,,,9851128270,,wlan,,,,,,Siddhi Binayak Marg,,24/7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2020-10-06T09:22:19Z,1.0
+node/4121434404,4121434404,node,The Life Story Guest House,guest_house,,,,,www.thelifestorynepal.com,,,,,,"Kathmandu, Patan",,1,44600,,pulchowk to mangalbazar road,,,,+9779803333223,,,,,,It is boutique mini hotel restored in the tradition of a true Newari style integrate with western comfort . The Guesthouse is located within a five-minute walk from Patan Durbar Square and yet hidden from noise of Kathmandu in a cozy yard Bubahal,separated,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2016-04-14T16:49:43Z,1.0
+node/4170922289,4170922289,node,The Gyawali Residence,guest_house,,,,,www.websequel.com,,,014380271,,wlan,,,,,,Palpasa Marg,,24/7,,,info@websequel.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2016-05-07T07:21:42Z,1.0
+node/4187225690,4187225690,node,Family Peace House,guest_house,,,,,,,,+97714381138,,wlan,,,129,,,Ganeshraj Marg,,24/7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-10-20T06:58:48Z,1.0
+node/4192187989,4192187989,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2016-05-17T18:38:44Z,1.0
+node/4224646304,4224646304,node,Sam'z home,guest_house,,,,,http://www.google.com,,,9849897946,,wlan,,,82/9,977,,jarucha road,,24/7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2016-09-30T13:24:00Z,1.0
+node/4236730190,4236730190,node,Un Dia Blanco Eco Guest House,guest_house,,,,,Look in booking.com,,,+9779808151636,,wlan,,,,44600,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2016-06-11T01:18:38Z,1.0
+node/4245506289,4245506289,node,Shakya Home,guest_house,,,,,,,,9860005316,,wlan,,,,44600,,Sukubahal Galli,,24/7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2016-06-16T04:12:36Z,1.0
+node/4265554225,4265554225,node,Divyeshwari guest house,guest_house,,,,,,,,,,,,,,,,Bappa to Bahakha,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2019-03-20T12:13:14Z,1.0
+node/4303500190,4303500190,node,Tamu's Paradise,guest_house,,,,,,,,+9779851027030,,wlan,,,20/20,44600,,Shiva Sankar Galli,,24/7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2016-07-15T00:33:41Z,1.0
+node/4338250095,4338250095,node,Youbraj,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2016-08-06T11:58:27Z,1.0
+node/4344481797,4344481797,node,Nawaranga guest house & art gallery,guest_house,,,,,,,,011-490226; +9779813084648,,wlan,,,45002,,,Sanjiwani bazar,,Mo-Su 06:30-20:30,,Purnaman,,Nawaranga Guest House & Art Gallery,,"This guest house had two nodes duplicating the same info, I've deleted one of them. Unfortunately the street name in the address did not match the deleted node said this was on dhulikhel road. Neither match the road name we have mapped at present.",,,,נווארנגה גסטהאוס,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-07-11T18:29:57Z,1.0
+node/4344952591,4344952591,node,Himalayan guest house,guest_house,,,,,,,,981-8652137,,wlan,,,,,,Kavre Chowk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2016-08-10T20:51:45Z,1.0
+node/4360287765,4360287765,node,Nirvana Peace Hotel,guest_house,,,,,,,,,,wlan,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-10-20T12:41:20Z,1.0
+node/4363076287,4363076287,node,The Yellow House,guest_house,,,,,,,,,,wlan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-08-09T19:25:27Z,1.0
+node/4363076288,4363076288,node,Andes Hotel,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2016-08-24T14:07:30Z,1.0
+node/4363076490,4363076490,node,Fair View Guest House,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2020-01-23T15:09:45Z,1.0
+node/4363076491,4363076491,node,Delight Guest House,guest_house,,,,,,,,,,wlan,,,,,,,,,,,,Delight Guest House,,,,,,,,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2020-01-23T14:44:29Z,1.0
+node/4364127054,4364127054,node,Kathmandu Garden House,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-10-20T06:56:42Z,1.0
+node/4364889071,4364889071,node,Kathmandu Sunny hotel,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2016-08-24T14:07:30Z,1.0
+node/4364889076,4364889076,node,Kathmandu Peace Guest House,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-10-20T06:56:42Z,1.0
+node/4366235123,4366235123,node,Fireflies Hostel,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2016-08-25T17:11:35Z,1.0
+node/4366618676,4366618676,node,Paradise Guest House,guest_house,,,,,,no,,,,,,,,,,,,,,,,,,,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2020-01-23T15:12:41Z,1.0
+node/4370723789,4370723789,node,,guest_house,,,,,,,,977-01-6611675,,wlan,,,inacho tole-6,,,sukuldhoka,,,,Rabindra Kayastha,bigbellguesthouse@gmail.com,Big Bell,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2016-08-28T08:28:53Z,1.0
+node/4373094403,4373094403,node,Khanals,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2016-08-29T04:49:16Z,1.0
+node/4375080802,4375080802,node,Bharat Hotel & Lodge,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2016-08-30T05:30:49Z,1.0
+node/4377379891,4377379891,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,udaya mama room,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2016-08-31T14:13:59Z,1.0
+node/4403916892,4403916892,node,,guest_house,,,,,,,,,,,,,,44600,,Samjhana Street,,,,,,Zen Bed & Breakfast,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2016-09-16T09:10:14Z,1.0
+node/4407893897,4407893897,node,,guest_house,,,,,,,,,,wlan,,,,,,Sinamangal marg,,24/7,,,,New Janaki Hotel & Guest House,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2016-09-19T09:50:12Z,1.0
+node/4415879790,4415879790,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,V-sign Guest House,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2016-09-24T03:37:42Z,1.0
+node/4418021592,4418021592,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,Nava Durga Apartment,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2016-09-25T19:37:32Z,1.0
+node/4456079290,4456079290,node,,guest_house,,,,,,,,,,wlan,,,,,,Dhunge Dhara Gali,,24/7,,,,Nirvana Peace Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-04-24T07:42:52Z,1.0
+node/4456577890,4456577890,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,Monkey Temple Backpackers Hostel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2016-10-20T15:07:56Z,1.0
+node/4457650090,4457650090,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,Trekkers Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2016-10-21T09:37:18Z,1.0
+node/4472309398,4472309398,node,,guest_house,,,,,,,,,,,,,,,,Payuntar->>gokarna,,,,,,Dnes Home,,,,,,,,,招待所,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-03-08T12:43:40Z,1.0
+node/4474701501,4474701501,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,Raji residence,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2016-11-01T09:31:58Z,1.0
+node/4485151009,4485151009,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,rohit home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2016-11-06T10:15:53Z,1.0
+node/4501795190,4501795190,node,,guest_house,,,,,,,,9841621847,,,,,261,00977,,golmadhi,,24/7,,,,Ramesh Gwachha's family,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2016-11-15T05:50:04Z,1.0
+node/4502554203,4502554203,node,Lalit Heritage Home,guest_house,,,,,,,,+977 9841853887,,wlan,Mangal Bazar,,,44600,,,,,,Renish Maharjan,,,,,,,outside,,,no,,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2016-11-15T14:53:37Z,1.0
+node/4535378890,4535378890,node,,guest_house,,,,,http://www.azizznepal.com,,,+97714812915,,wlan,,,,+977,,Ani Gompa,,7:00-19:00,,Miss Serki Lhamu Sherpa,info@azizznepal.com,Azizz Restaurant & Rooms,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2016-12-03T09:36:27Z,1.0
+node/4556342606,4556342606,node,,guest_house,,,,,,,,,,wlan,,,,,,Thado Bato,,,,Rujen Banajara,,Rujen Banjaara,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-08-08T08:56:18Z,1.0
+node/4557990691,4557990691,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,Kumar chalise's home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2016-12-17T03:43:58Z,1.0
+node/4565847790,4565847790,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,kings kids,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2016-12-21T23:35:32Z,1.0
+node/4596454389,4596454389,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,Lali Gurash Guest House & Traders,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-11-29T09:27:52Z,1.0
+node/4620330891,4620330891,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,"Krishna Niwas, Shantinagar Anigumba",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-01-20T09:43:01Z,1.0
+node/4631686497,4631686497,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,Guard house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-01-25T09:15:11Z,1.0
+node/4659334995,4659334995,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,A-one Gandaki,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-02-03T12:00:23Z,1.0
+node/4659337193,4659337193,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,Anupama guesthouse,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-08-23T04:28:08Z,1.0
+node/4663324396,4663324396,node,,guest_house,,,,,,,,,,wlan,,,,,,,,,,,,Green Mandala Inn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-02-04T14:45:59Z,1.0
+node/4675813289,4675813289,node,,guest_house,,,,,,,,,,,,,,,,bharwacho,,,,,,Namaste Nepal Guest House & Restaurant,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-02-09T02:54:12Z,1.0
+node/4711181289,4711181289,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,Banepa Stay,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-03-01T06:53:38Z,1.0
+node/4717620991,4717620991,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-03-05T04:52:41Z,1.0
+node/4733827121,4733827121,node,,guest_house,,,,,http://www.sunnyguesthousenepal.com,,,01-6616094,,wlan,,,,44800,,Taumadhi,,24/7,,Keepa Prajapati,guesthousesunny@yahoo.com,Sunny Guest House,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-03-14T09:44:14Z,1.0
+node/4739116422,4739116422,node,,guest_house,,,,,http://www.sherpahomeswoyambhu.com,,,0097714289174,,wlan,,,578,,,Adikabi Marg,,24/7,,Sherpa Familie,sherpa.home.swoyambhu@gmail.com,Sherpa Home Stay Swoyambhu,,,,,,,,,,,Sherpa Gästehaus Swoyambhu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-03-17T03:25:01Z,1.0
+node/4741955818,4741955818,node,Lodge,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-03-18T19:30:25Z,1.0
+node/4742507454,4742507454,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,BJA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-03-19T06:21:04Z,1.0
+node/4745088823,4745088823,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-03-20T13:55:44Z,1.0
+node/4749912128,4749912128,node,,guest_house,,,,,,,,,,wlan,,,,,,,,,,,,Royal Guesthouse,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-03-23T00:28:29Z,1.0
+node/4749912129,4749912129,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,Love Bird,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-03-23T00:28:32Z,1.0
+node/4754046123,4754046123,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,Cozy Corner Guesthouse,,,,,,,,,,,,Cozy Corner Guesthouse,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-03-25T07:47:17Z,1.0
+node/4754155223,4754155223,node,,guest_house,,,,,,,,,,wlan,,,,,,,,,,,,Mountain Child,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-03-25T09:46:15Z,1.0
+node/4754536322,4754536322,node,,guest_house,,,,,,,,,,,,,15,,,Lambagar,,,,,,My room,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-03-25T13:32:02Z,1.0
+node/4755616171,4755616171,node,,guest_house,,,,,,,,985-1017030,,,,,,,,gaa hiti road,,,,,,De Hotel Veda,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-03-26T01:39:10Z,1.0
+node/4757257423,4757257423,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,Lumbini Guest House,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-03-27T03:47:12Z,1.0
+node/4759447160,4759447160,node,,guest_house,,,,,,,,9843298100,,,,,,,,,,,,,,Nagan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-03-28T10:09:48Z,1.0
+node/4773973421,4773973421,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,Om Himalayan Stupa Guest House,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-04-10T10:08:23Z,1.0
+node/4803257621,4803257621,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,The nepali hive,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-04-19T08:25:06Z,1.0
+node/4811562523,4811562523,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,Shangrila lodge,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-04-23T14:25:33Z,1.0
+node/4830851621,4830851621,node,,guest_house,,,,,,,,014253844,,wlan,,,,,,Ganabaha Marg,,24/7,,,,National guest house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2020-04-27T06:07:40Z,1.0
+node/4850980321,4850980321,node,Gracemandu Guest House,guest_house,,,,,http://www.gracemandu.com,,,01 5530182,,wlan,Bhanimanal,,,44600,,"Bhanimandal, Lalitpur, Kathmandu",,,,,gracemanduhouse@gmail.com,Gracemandu Guest House,,,,,,,,yes,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-05-19T05:59:50Z,1.0
+node/4858673423,4858673423,node,,guest_house,,,,,http://www.facebook.com/sammunatnepal,,,+9779813847426,,,,,,,,"Chilaune, Okhreni Route.",,Mo-Su 09:00-18:00,,Meghsha Karki,infosammunat@gmail.com,Sammunat Nepal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-07-19T02:59:58Z,1.0
+node/4860837921,4860837921,node,,guest_house,,,,,,,,,,,,,,,,Tilganga Marg,,,,,,Shambu Marga c2 area,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-05-18T01:17:00Z,1.0
+node/4865414321,4865414321,node,,guest_house,,,,,,,,014365940,,wlan,,,,,,,,,,,,Naulo junkiri,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-05-20T01:31:24Z,1.0
+node/4881699421,4881699421,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,Om Ghale Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-05-28T14:54:50Z,1.0
+node/4888287622,4888287622,node,,guest_house,,,,,,,,,,,,,,,,Tikathali-Lokanthali Road,,,,,,GAUTAM GUEST HOUSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-05-31T18:38:09Z,1.0
+node/4890812622,4890812622,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,Om Ghale Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-06-02T01:35:10Z,1.0
+node/4940224423,4940224423,node,,guest_house,,,,,,,,,,,,,2,,,Susangam Marg,,,,,,Sunoj Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-06-28T11:17:52Z,1.0
+node/4947416421,4947416421,node,,guest_house,,,,,http://www.dhunkharkahomestay.com,,,+9779841072631,,wlan,,,,45200,,Panauti-Dhungkharka Road,,24/7,,Kiran Basnet,contact@dhunkharkahomestay.com,Dhunkharka Homestay,,,,,,,,,,,,,ढुन्खर्क होमइस्टे,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-07-02T18:17:55Z,1.0
+node/4960167521,4960167521,node,,guest_house,,,,,http://www.dhunkharkahomestay.com,,,+9779841072631,,wlan,,,,45206,,Batase Danda,,24/7,,Kiran Basnet,contact@dhunkharkahimestay.com,Dhunkharka Homestay,,,,,,,,,,,,,ढुङ्गर्खक होमईस्टे,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-08-19T19:02:09Z,1.0
+node/4985329430,4985329430,node,,guest_house,,,,,,,,,,wlan,,,,22644,,chapali road,,,,tabin,rudima.tabin@gmail.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-07-21T17:22:56Z,1.0
+node/4990566921,4990566921,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-07-24T16:26:05Z,1.0
+node/5010420925,5010420925,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,Asha guest house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-08-03T00:46:35Z,1.0
+node/5012644321,5012644321,node,,guest_house,,,,,,,,,,,,,,,,Thapagaun Marga,,,,,,Shree Niwas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-08-03T18:52:20Z,1.0
+node/5040409121,5040409121,node,,guest_house,,,,,,,,+9779849722253,,,,,,,,Gapali,,,,,prajoltamakhu@gmail.com,My home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-08-17T07:03:26Z,1.0
+node/5040811922,5040811922,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-08-17T10:28:10Z,1.0
+node/5045722021,5045722021,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,Nepali Hive,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-08-20T06:19:49Z,1.0
+node/5153340324,5153340324,node,,guest_house,,,,,,,,9843703363,,,,,002,00977,,gothatar,,,,Rajesh Nepal,,Land owner : Rajesh Nepal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-10-07T11:26:47Z,1.0
+node/5172161221,5172161221,node,,guest_house,,,,,,,,,,wlan,,,,,,Mitranagar Marg,,,,Krishna Shrestha,,Hotel Sampurna,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-10-17T00:58:10Z,1.0
+node/5209550622,5209550622,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,Eco 2000 Hotel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-11-04T05:06:46Z,1.0
+node/5221250421,5221250421,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-11-10T10:06:57Z,1.0
+node/5222562121,5222562121,node,,guest_house,,,,,http://purevisionsorig.org/the-healing-center.html,,,+9779808089153,,wlan,,,,,,,,,,,info@purevisionsorig.org,The Pure Vision Sorig Healing Center,Центр доктора Шераба,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-11-11T02:48:55Z,1.0
+node/5222735822,5222735822,node,,guest_house,,,,,http://dralaresrt.com,,,+9779741433819,,,,,,,,,,,,,drala.resorts@gmail.com,Drala Resort Nepal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-11-11T07:55:32Z,1.0
+node/5227714521,5227714521,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-11-14T07:18:56Z,1.0
+node/5227840223,5227840223,node,,guest_house,,,,,,,,,,wlan,,,,011 0977,,devisthan,,,,,,Krishna bhojanayala,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-11-14T09:04:39Z,1.0
+node/5228573923,5228573923,node,,guest_house,,,,,,,,,,,,,,,,Lekhnath Sadak,,,,,,Valley Tourist,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-11-14T17:18:55Z,1.0
+node/5232224621,5232224621,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,Lavee Residence,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-11-16T08:04:12Z,1.0
+node/5234829921,5234829921,node,Gautam Residence,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-11-24T14:16:06Z,1.0
+node/5253442522,5253442522,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,Guest House,Раиса гестхауз,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-11-29T05:47:11Z,1.0
+node/5257511421,5257511421,node,,guest_house,,,,,,,,977-9841-787136,,wlan,,,,,,,,,,,healingecofarm@gmail.com,Sister’s homestay,,,,,,,,,,,,,,Sister’s homestay,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-12-01T11:23:29Z,1.0
+node/5259042123,5259042123,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,Hotel Yala peak,,,,,,,,,,,,,,,ホテル ヤラ ピーク,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017-12-02T04:03:55Z,1.0
+node/5314807721,5314807721,node,,guest_house,,,,,,,,9841319131,,wlan,,,,,,Mankamana Marg,,24/7,,Baburam Karki,karkibabu@hotmail.com,Subi Homestay,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-01-01T14:32:22Z,1.0
+node/5341416021,5341416021,node,,guest_house,,,,,,,,,,wlan,,,,,,kadaghari,,,,,,Bal krishna Nagarkoti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-01-15T19:28:51Z,1.0
+node/5356244027,5356244027,node,,guest_house,,,,,,,,,,wlan,,,,,,,,,,,,Tirtha ram Khadka,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-01-23T08:39:59Z,1.0
+node/5369939821,5369939821,node,,guest_house,,,,,,,,,,wlan,,,,,,,,,,,,Lotus Guest house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-01-29T09:43:55Z,1.0
+node/5375650821,5375650821,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,kathmandu villiage house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-01-31T15:38:30Z,1.0
+node/5419608024,5419608024,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,nakarmani,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-02-18T07:12:31Z,1.0
+node/5468790321,5468790321,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-03-10T08:51:39Z,1.0
+node/5470159121,5470159121,node,,guest_house,,,,,http://www.balthaliguesthouse.com.np,,,9851106360,,wlan,,,,,,,,,,,balthaliguesthouse@gmail.com,Balthali Guest House,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-03-11T02:06:46Z,1.0
+node/5470209222,5470209222,node,,guest_house,,,,,,,,014362038,,wlan,,,,,,,,,,,sunmaiguesthouse@yahoo.com,Sunmai Guest House,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-03-19T02:52:22Z,1.0
+node/5487575821,5487575821,node,,guest_house,,,,,,,,9841243750,,,,,,,,,,,,,,raju khatri,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-03-19T01:33:06Z,1.0
+node/5493717624,5493717624,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,Nepali home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-03-21T13:12:00Z,1.0
+node/5512993121,5512993121,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,Right way hotel and restaurant,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-03-29T05:34:11Z,1.0
+node/5528554422,5528554422,node,,guest_house,,,,,,,,,,wlan,,,,,,kwachhen,,,,Rajesh phaisikawa,,mandala guest house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-04-04T16:44:59Z,1.0
+node/5528554621,5528554621,node,,guest_house,,,,,,,,9851035063,,wlan,,,,,,kwachhen,,24/7,,Manoj kayastha,,tashidelek guest house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-04-04T16:44:58Z,1.0
+node/5568194822,5568194822,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,Bandana house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-04-21T05:56:30Z,1.0
+node/5572719478,5572719478,node,BnB Royal Tourist House,guest_house,,,,,,,,,,yes,Kathmandu,,,,,Phulbari street,,,,,,,,,,,,,,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-04-23T06:05:31Z,1.0
+node/5583721022,5583721022,node,,guest_house,,,,,,,,,,wlan,,,,,,Bhagwan Bahal Marga,,24/7,,,,Hotel Earth House,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-04-28T05:42:52Z,1.0
+node/5587392022,5587392022,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,Homestay makmaley,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-04-30T04:30:27Z,1.0
+node/5587778528,5587778528,node,,guest_house,,,,,,,,+9779849269604,,,,,,,,,,,,Dhana Bahadur Tamang,,Homestay 12,,,,,,בית אירוח 12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-05-02T05:39:29Z,1.0
+node/5591549124,5591549124,node,,guest_house,,,,,,,,+9779803965475,,,,,,,,,,24/7,,karma Yonjan,,Homestay 14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-05-02T05:36:52Z,1.0
+node/5591549521,5591549521,node,,guest_house,,,,,,,,+9779840209482,,,,,,,,,,,,Bir Bahadur Tamang,,Homestay 9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-05-02T05:37:38Z,1.0
+node/5591551421,5591551421,node,,guest_house,,,,,,,,+9779841005208,,,,,,,,,,,,,,Homestay 13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-05-02T05:39:35Z,1.0
+node/5592628822,5592628822,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,Monkey Temple Home stay Real Position,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2019-12-23T05:45:22Z,1.0
+node/5621537322,5621537322,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,Makmaley homestay,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-05-16T08:35:44Z,1.0
+node/5623525223,5623525223,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,Homestay 11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-05-17T04:41:25Z,1.0
+node/5623525224,5623525224,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,Homestay 10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-05-17T04:41:27Z,1.0
+node/5623525226,5623525226,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,Bethanchowk Village Community Homestay 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-05-17T04:41:35Z,1.0
+node/5623525321,5623525321,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,Homestay 6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-05-17T04:41:17Z,1.0
+node/5623525324,5623525324,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,Homestay 15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-05-17T04:41:29Z,1.0
+node/5624709022,5624709022,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,NPL Guesthouse,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-05-17T14:39:26Z,1.0
+node/5659888421,5659888421,node,,guest_house,,,,,,,,9851222592,,,,,,,,,,,,,,Jaga tauda,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-06-03T04:07:06Z,1.0
+node/5665157021,5665157021,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-06-05T01:45:21Z,1.0
+node/5665193287,5665193287,node,,guest_house,,,,,http://nepalihomestay.com,,,+97715090556,,,,,,,,Mahankal chok,,24/7,,Uma Dawadi,umathapaliya1984@gmail.com,Home Stay Nepal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-06-05T02:38:50Z,1.0
+node/5681645321,5681645321,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,Arjun Maharjan (House),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-06-11T09:29:35Z,1.0
+node/5682475921,5682475921,node,,guest_house,,,,,,,,986007923,,,,,,00977,,Bhardeu Street,,Mo-Su 08:00-21:30,,Sambhu Mokhtan,,Bhardeu View Mini Resort &Homestay,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-06-11T14:46:59Z,1.0
+node/5729693521,5729693521,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,Sandeep room,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-06-30T07:33:25Z,1.0
+node/5752049825,5752049825,node,,guest_house,,,,,,,,,,,,,,,,Imadol - Tikathali,,,,,,sunil dai,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-07-10T15:32:40Z,1.0
+node/5776329453,5776329453,node,,guest_house,,,,,,,,,,wlan,,,,45600,,Balkumari-Balkot road,,24/7,,,,Rajeshh Rent's Room,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-07-22T05:25:57Z,1.0
+node/5794798853,5794798853,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,my house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-07-30T02:17:40Z,1.0
+node/5821670754,5821670754,node,,guest_house,,,,,,,,,,wlan,,,,,,,,,,,,NCIT GuestHouse,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-11-29T05:37:19Z,1.0
+node/5862679685,5862679685,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,Gulmi shikhar guest house..,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-08-28T05:43:07Z,1.0
+node/5873142387,5873142387,node,,guest_house,,,,,,,,,,wlan,,,,,,,,24/7,,Pashupati Khatri,pashupati81@gmail.com,Khatri House,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-09-01T13:29:16Z,1.0
+node/5875447585,5875447585,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,Mohan House,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-10-27T05:40:43Z,1.0
+node/5875629086,5875629086,node,,guest_house,,,,,,,,,,wlan,,,,,,,,24/7,,Pashupati Khatri,pashupati81@gmail.com,Khatri Niwas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-09-02T13:18:33Z,1.0
+node/5912189085,5912189085,node,,guest_house,,,,,http://www.anupsguesthouse.com,,,9849552764,,wlan,,,,,,,,24/7,,Anup,anupkc9000@gmail.com,Anup Guest House,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-09-17T16:38:22Z,1.0
+node/6021113418,6021113418,node,Divine Guest House,guest_house,,,,,,no,,,,,,,,,,,,,,,,,,,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-10-29T03:38:28Z,1.0
+node/6022425297,6022425297,node,,guest_house,,,,,http://greenlionnepal.com/,,,,,,,,,,,,,,,,,The Green Lion Centre,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-10-30T12:33:20Z,1.0
+node/6052624185,6052624185,node,,guest_house,,,,,,,,015540575,,wlan,,,,,,,,,,,mhg@mos.com.np,Mahabuddha Guesthouse,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-11-11T12:24:51Z,1.0
+node/6064050785,6064050785,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,Narayani Guest House,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-11-15T16:04:31Z,1.0
+node/6064801285,6064801285,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,Everest Guest House,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-11-15T21:58:18Z,1.0
+node/6077927887,6077927887,node,,guest_house,,,,,,,,,,,,,,,,Gaggle,,,,Charlie Baba,,5EOB Farm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018-11-21T03:43:01Z,1.0
+node/6109137186,6109137186,node,,guest_house,,,,,,,,,,wlan,,,,,,,,,,,,Langtang View Nagarkot Bed & Breakfast,,,,,,,,,,,Langtang View Nagarkot Bed & Breakfast,,,Langtang View Nagarkot Bed & Breakfast,,Langtang View Nagarkot Bed & Breakfast,,,,,,,,,,,,,,,,,,,,,,,,,,,2019-05-22T06:29:34Z,1.0
+node/6183031385,6183031385,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,Aalaya guesthouse,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2019-01-04T05:27:04Z,1.0
+node/6239145785,6239145785,node,,guest_house,,,,,,,,9843073087,,wlan,,,,,,golmadhi,,,,Sangita Tachamo,,Sangita Tachamo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2019-01-27T06:36:27Z,1.0
+node/6255373237,6255373237,node,Nyatapola Guest House,guest_house,,,,,,,,,,wlan,Bhaktapur,,,44800,,Bolachhen,,,,Manika Kayastha,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2019-02-03T08:54:08Z,1.0
+node/6283738285,6283738285,node,,guest_house,,,,,,,,,,,,,,,,Dhaulagiri aabas,,,,,,Satungal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2019-02-17T04:01:31Z,1.0
+node/6291120886,6291120886,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,Elephant House,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2019-02-20T13:18:38Z,1.0
+node/6291127285,6291127285,node,,guest_house,,,,,,,,,,wlan,,,,,,Dulikhel hospital road,,,,Sharmila Shrestha,sharmila_basnet@yahoo.com,Sharmilas Paradise Guesthouse,,,,,,,,,,,Sharmilas Paradise Guesthouse,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2019-02-20T13:18:37Z,1.0
+node/6291127286,6291127286,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,Hotel Everest View and Restaurant,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2019-02-20T13:18:38Z,1.0
+node/6313845285,6313845285,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,Nikki,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2019-03-03T09:12:04Z,1.0
+node/6313845385,6313845385,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,Santosh house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2019-03-03T09:12:05Z,1.0
+node/6338070085,6338070085,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,成都饭店,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2019-03-14T15:48:24Z,1.0
+node/6366958185,6366958185,node,,guest_house,,,,,,,,+9779861173486,,,,,,,,,,24/7,,Kamalraj Dahal,skguesthouse2019@gmail.com,S.K Guesthouse,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2019-03-28T07:32:50Z,1.0
+node/6366979693,6366979693,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,Shresthra Guesthouse,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2019-03-28T07:53:35Z,1.0
+node/6398220785,6398220785,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,Homestay 2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2019-04-11T11:21:22Z,1.0
+node/6410997085,6410997085,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,Didi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2019-04-17T07:10:01Z,1.0
+node/6417776185,6417776185,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,Laughing Buddha,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2019-04-20T12:31:55Z,1.0
+node/6423082385,6423082385,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,Krick koach,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2019-04-23T11:23:15Z,1.0
+node/6433601986,6433601986,node,,guest_house,,,,,,,,,,wlan,,,,,,,,,,,,New Dungkar guesthouse,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2019-04-28T07:15:13Z,1.0
+node/6435287285,6435287285,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,Changu home stay,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2019-04-29T06:24:48Z,1.0
+node/6460736185,6460736185,node,,guest_house,,,,,,,,,,wlan,,,,,,,,,,,,Sunshine Organic Farm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2019-05-09T02:36:38Z,1.0
+node/6467596686,6467596686,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,City View Guesthouse & Restaurant,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2019-05-12T08:23:52Z,1.0
+node/6467596785,6467596785,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2019-05-12T08:23:48Z,1.0
+node/6474435186,6474435186,node,,guest_house,,,,,,,,,,wlan,,,,,,,,,,,,Joy Source Resort,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2019-05-15T04:49:11Z,1.0
+node/6489721985,6489721985,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,Rabin dai ko room,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2019-05-22T03:43:48Z,1.0
+node/6496743285,6496743285,node,,guest_house,,,,,https://hotel-lyco-pvt-ltd.business.site/,,,+9779804182986,,wlan,,,,44600,,Mitranagar Sadak,,24/7,,Min Bahadur Saru,,Hotel LYCO Nepal Pvt.Ltd.ह​ह,,,,,,,,,,,,,होटल लाइको नेपाल प्रा.लि.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2020-05-20T11:20:06Z,1.0
+node/6499299181,6499299181,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2019-05-25T07:59:34Z,1.0
+node/6576849424,6576849424,node,Tanahun Gorkha Guest House,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2019-06-28T14:17:52Z,1.0
+node/6577022789,6577022789,node,,guest_house,,,,,,,,+9779851087556,,wlan,,,,,,,,,,,purnaduwal@gmail.com,pond view resisdence,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2019-06-28T15:49:04Z,1.0
+node/6655323687,6655323687,node,,guest_house,,,,,,,,+9779841010127,,wlan,,,,,,Gangalal Marg,,,,Sujal,,Kathmandu boutique hotel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2019-07-28T16:22:05Z,1.0
+node/6659912316,6659912316,node,Joshi Nani Community Homestay,guest_house,,,,,,,,,,yes,Kirtipur,,,,,जोशीननि,,,,Joshi Nani Community Homestay (P) Ltd.,,,,,,,,,,no,,,,,,,,,homestay,,,,,,,,,,,,,,,,,,,,,,,,,,2020-07-25T05:53:48Z,1.0
+node/6767990385,6767990385,node,,guest_house,,,,,,,,,,wlan,,,,,,बाराही पुल,,,,,,Bhadgaun Hotel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2019-09-03T01:25:33Z,1.0
+node/6769414885,6769414885,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,PG's  House,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2019-09-03T13:16:28Z,1.0
+node/6880635685,6880635685,node,,guest_house,,,,,,,,014283896,,wlan,,,,00977,,Kalimati,,24/7,,Shreejana Shrestha,,Machindra Ajima Marg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2019-10-15T06:29:12Z,1.0
+node/6896192887,6896192887,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,actual location of Sitapaila guest house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2019-10-18T15:24:06Z,1.0
+node/6977456385,6977456385,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,Korean Guest House,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2019-11-14T17:30:01Z,1.0
+node/6991584263,6991584263,node,,guest_house,,,,,http://www.unemaisonaunepal.weebly.com,,,9810252905,,wlan,,,,,,,,,,,unemaisonaunepal@gmail.com,,,,,,,,,,,,,,,Une maison au Népal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2019-11-20T07:00:42Z,1.0
+node/7003630985,7003630985,node,,guest_house,,,,,,,,,,wlan,,,,,,Z Marg,,,,,,firante　hostel,,,,,,,,,,,,,,,フィランテ　ホステル,,,,,,,,,,,,,,,,,,,,,,,,,,,,2019-11-23T05:17:19Z,1.0
+node/7092720085,7092720085,node,,guest_house,,,,,,,,+97715157150,,wlan,,,,,,,,24/7,,Deebesh,ganeshguesthouse@Gmail.com,Ganesh Guesthouse’s Farmstay,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2019-12-29T06:35:04Z,1.0
+node/7092981685,7092981685,node,,guest_house,,,,,,,,,,,,,,,,Shambhu Marga,,,,,,Morang Belbari Guest House,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2019-12-29T10:42:03Z,1.0
+node/7173981087,7173981087,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,,гостюшка 2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2020-01-31T04:05:07Z,1.0
+node/7249939493,7249939493,node,,guest_house,,,,,,,,,,,,,,,,,,,,,,home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2020-02-28T11:52:37Z,1.0
+node/7271986286,7271986286,node,,guest_house,,,,,,,,,,wlan,,,,,,,,,,,,Aryan's house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2020-03-06T13:28:29Z,1.0
+node/7293762785,7293762785,node,,guest_house,,,,,,,,9845609392,,wlan,,,,,,,,24/7,,,,Sriram ko room,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2020-03-14T05:55:39Z,1.0
+node/7345907839,7345907839,node,Mount Fuji Home Kathmandu,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2020-03-30T10:21:22Z,1.0
+node/8209815986,8209815986,node,Kumari Guest House,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2020-12-09T14:01:31Z,1.0
+way/180767855,180767855,way,The Kantipur Guest House,guest_house,,,,,,,,,,,Kathmandu,NP,,Ward TBD,,TBD,,,,,,,,,,,,,,,,,,,,,,,,"[1912346829, 1912346831, 1912346846, 1912346845, 1912346838, 1912346829]",yes,,,,,,,,,,,,,,,,,,,,,,,,2013-03-25T17:18:03Z,1.0
+way/200117916,200117916,way,Homestay Nepal,guest_house,,,,,http://homestay-nepal.com/en,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[2101055319, 2101055281, 2101055340, 2101055361, 2101055319]",yes,,,,,,,,,,,,,,,,,,,,,,,,2013-01-14T09:43:47Z,1.0
+way/203488583,203488583,way,Family Home Restaurant And Guest House Pvt. Ltd,guest_house,,,,,,yes,,,,no,,,,,,,,,,,,,,,,,yes,,,no,,,,,,,,,,"[2135036976, 2135036975, 2135036977, 2135036979, 2135036980, 4373260687, 2135036976]",,1,,,,,,,,,,,,,,,,,,,,,,,2016-08-29T07:56:48Z,1.0
+way/203706859,203706859,way,Dev Guest House,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[2137060620, 2137060618, 2137060595, 2137060598, 2137060620]",yes,,,,,,,,,,,,,,,,,,,,,,,,2015-09-04T09:57:08Z,1.0
+way/205183183,205183183,way,New Namaste Guest House,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[2151598977, 2151598985, 2151598978, 2151598975, 2151598977]",yes,,,,,,,,,,,,,,,,,,,,,,,,2020-10-20T12:34:00Z,1.0
+way/205719036,205719036,way,,guest_house,,,,,,,Sirahali gupta lodge,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[2156907534, 2156907536, 2156907535, 2156907537, 2156907534]",,,,,,,,,,,,,,,,,,,,,,,,,2013-02-16T05:41:13Z,1.0
+way/205719289,205719289,way,,guest_house,,,,,,,New dhanusha nuri guest house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[2156912771, 2156912772, 2156912773, 2156912770, 2156912771]",,,,,,,,,,,,,,,,,,,,,,,,,2013-02-16T05:41:30Z,1.0
+way/205719816,205719816,way,,guest_house,,,,,,,Mithilanchal guest house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[2156919892, 2156919890, 2156919889, 2156919891, 2156919892]",,,,,,,,,,,,,,,,,,,,,,,,,2013-02-16T05:44:02Z,1.0
+way/205719837,205719837,way,,guest_house,,,,,,,Janakpur guest house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[2156920089, 2156920088, 2156920090, 2156920091, 2156920089]",,,,,,,,,,,,,,,,,,,,,,,,,2018-11-23T11:13:22Z,1.0
+way/205723085,205723085,way,,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[2156940246, 2156940247, 2156940244, 2156940245, 2156940246]",yes,,,,,,,,,,,,,,,,,,,,,,,,2014-09-18T13:00:04Z,1.0
+way/205723100,205723100,way,,guest_house,,,,,,,,,METEOR Kathmandu Field Survey 2019,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[2156940395, 2156940393, 2156940397, 2156940394, 2156940395]",commercial,,attached,post_2000,poor,slopy_land,brick,masonry_wall,1,none,10to19,New buildings are not shown in map,cgi,monopitch,,,,,,,,,,,2019-03-10T09:51:00Z,1.0
+way/205723301,205723301,way,,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[2156945208, 2156945207, 2156945209, 2156945206, 2156945208]",,,,,,,,,,,,,,,,,,,,,,,,,2013-02-16T06:13:33Z,1.0
+way/205723451,205723451,way,,guest_house,,,,,,,Hotel Nakshyatra Guest house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[2156946992, 2156946994, 2156946993, 2156946991, 2156946992]",,,,,,,,,,,,,,,,,,,,,,,,,2013-02-16T06:17:31Z,1.0
+way/205874759,205874759,way,Shubhadra Palace,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[2158603141, 2158603142, 2158603140, 2158603139, 2158603141]",yes,,,,,,,,,,,,,,,,,,,,,,,,2014-09-18T13:00:04Z,1.0
+way/206081056,206081056,way,Shree Tibet Family Guest House,guest_house,,,,,https://www.hotelshreetibet.com/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[2160763282, 2160763280, 2160763271, 2160763272, 2160763282]",yes,,,,,,,,,,,,,,,,,,,,,,,,2019-03-27T21:27:01Z,1.0
+way/208032607,208032607,way,Laughing Buddha Guesthouse & Villa,guest_house,,,,,,,,,,yes,Kathmandu,,50,44620,,"Devithan Galli, Kimdole Marg",,,,Dan,,,,,,,outside,,,no,,,,,,,,,,"[2183282451, 2183282452, 2183282462, 2183282461, 2183282451]",yes,,,,,,,,2,,,,,,,,,,,,,,,,2018-12-15T16:14:11Z,1.0
+way/210266092,210266092,way,Lakuri Rest Camp,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[2203547009, 2203547005, 2203547003, 2203547008, 2203547009]",yes,,,,,,,,,,,,,,,,,,,,,,,,2013-12-29T10:38:40Z,1.0
+way/215469710,215469710,way,Nabin Tanbee Restaurant and Guest House,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[2249161634, 2249161631, 2249161627, 2249161632, 2249161635, 2249161629, 2249161633, 2249161634]",,,,,,,,,,,,,,,,,,,,,,,,,2013-04-04T18:35:26Z,1.0
+way/216927436,216927436,way,,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[2262423353, 3484821773, 2262423355, 2262423354, 2262423356, 2262423353]",,,,,,,,,,,,,,,,,,,,,,,,,2015-04-28T18:49:01Z,1.0
+way/230509129,230509129,way,Jire Khursani Khaja Ghar,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[2390056456, 2390056447, 2390056436, 2390056417, 2390056456]",yes,,,,,,,,,,,,,,,,,,,,,,,,2013-12-29T10:38:39Z,1.0
+way/237650132,237650132,way,Tise Guesthouse,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[2455221249, 2455221251, 2455221250, 2455221248, 2455221249]",yes,,,,,,,,,,,,,,,,,,,,,,,,2015-04-29T15:14:04Z,1.0
+way/240797308,240797308,way,Sagarmatha Apartment Bed & Breakfast,guest_house,,,,,http://www.sagarmathaapartmentbedandbreakfast.com,,,+977 9813118965,,,Lalitpur,,,Sanepa-2,,Milap Road,,,,,,,,,,,,,,,,,,,,,,,,"[2484910343, 2484910352, 2484910354, 2484910346, 2484910348, 2484910350, 2484910343]",yes,,,,,,,,,,,,,,,,,,,,,,,,2014-06-16T03:12:29Z,1.0
+way/245078853,245078853,way,@home Guesthouse,guest_house,,,,,http://www.at-home-nepal.com/,,,+977 1 5013502,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[2523319308, 2523319310, 2523319312, 3729223326, 3729223325, 2523319314, 2523319308]",yes,,,,,,,,,,,,,,,,,,,,,,,,2015-09-04T13:05:42Z,1.0
+way/245083388,245083388,way,Buddha Dharma Centre,guest_house,,,,,,,,,,yes,Kathmandu,,,44600,,"P76Q+76 Kathmandu, Nepál",,,,Buddha Dharma Centre,,,,,,,,,,no,,,,,,,,,,"[2523354886, 2523354887, 2523354888, 4513191309, 2523354889, 4513191310, 4513191311, 4513191312, 4513191313, 4513191314, 2523354886]",yes,,,,,,,,3,,,,,,,,,,,,,,,,2019-01-07T14:26:40Z,1.0
+way/285870298,285870298,way,The Yellow House,guest_house,,,,,http://www.theyellowhouse.com.np,,,"+977 1 5553869, 5522078",,,Lalitpur,,,,,Milan Road,,,,,,,,,,,,,,,,,,,,,,,,"[2895071768, 2895071771, 2895071772, 2895071773, 2895071768]",yes,,,,,,,,,,,,,,cafe,,,,,,,,,,2017-06-23T07:01:16Z,1.0
+way/295056075,295056075,way,Baba guest house and hotel,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[2987298092, 2987298095, 2987298094, 2987298091, 2987298092]",yes,,,,,,,,,,,,,,,,,,,,,,,,2014-09-13T07:54:21Z,1.0
+way/309269112,309269112,way,Ambience Guest House,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[3146043156, 3146043157, 3146043158, 3146043159, 3146043156]",yes,,,,,,,,,,,,,,,,,,,,,,,,2015-05-02T13:40:48Z,1.0
+way/339714940,339714940,way,Newa Chén,guest_house,,,,,www.newachen.com,limited,,+97715533532,,wlan,Lalitpur,,Ka 9/657,,,Kobahal tole,,,,,information@newachen.com,,,,,,,,,,,8,,,,,,,,"[3469203383, 3640898940, 3640514494, 3640543693, 3640543593, 3469203351, 3469203362, 3469203388, 3469203383]",yes,,,,,,,,,,,,,,,U81_169B_4HH,HERD Urban Health Survey,Shrestha House,Kobahal Tole,18,नेवा: छें,,,,2017-01-05T04:04:15Z,1.0
+way/485367115,485367115,way,Sathi Guest House,guest_house,,,,,,,,+9779808834249,,wlan,Kathmandu,,,,,Swoyambhu Kimdol-15,,,,,info@sathiguesthouse.com,,,,,,,,,no,,,,,,,,,,"[4781375048, 4781375049, 4781375050, 4781375052, 4781375053, 4781375048]",commercial,,,,,,,,,,,,,,,,,,,,,TP-LINK_B684,,,2017-04-08T04:25:01Z,1.0
+way/511244486,511244486,way,shiva guest house,guest_house,,,,,,,,,,,,,,,,khauma,,07:00-19:00,,private,,,,,,,,,,,,,,,,,,,,"[5001386746, 5001386745, 5001386744, 5001386743, 5001386742, 5001386741, 5001386746]",,,,,,,,,,,,,,,,,,,,,,,khauma,guest house,2017-09-02T12:51:51Z,1.0
+way/791961884,791961884,way,Tokyi Guest House,guest_house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[7403776879, 7403776880, 7403776881, 7403776882, 7403776879]",yes,,,,,,,,,,,,,,,,,,,,,,,,2020-04-15T01:44:33Z,1.0
