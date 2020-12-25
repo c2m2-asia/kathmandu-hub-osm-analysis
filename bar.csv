@@ -1,0 +1,64 @@
+unique_id,osmid,element_type,amenity,cuisine,facilities,name,level,addr:street,diet:vegetarian,name:en,name:nl,addr:city,addr:country,addr:postcode,addr:state,outdoor_seating,phone,email,opening_hours,internet_access,website,name:fr,toilets:wheelchair,wheelchair,facebook,contact:facebook,name:he,name:ru,nodes,building,timestamp,completeness_score
+node/1892815646,1892815646,node,bar,Wine Bar,winery,Vesper House,,,,,,,,,,,,,,,,,,,,,,,,,2015-02-15T17:17:02Z,1.0
+node/2002392575,2002392575,node,bar,,,Salsa Bar,,,,,,,,,,,,,,,,,,,,,,,,,2012-11-08T10:28:05Z,1.0
+node/2684769719,2684769719,node,bar,,,crazy dance bar,,,,,,,,,,,,,,,,,,,,,,,,,2014-02-22T09:31:13Z,1.0
+node/3331703762,3331703762,node,bar,,,Unique Bar,1,,,,,,,,,,,,,,,,,,,,,,,,2015-02-05T11:41:33Z,1.0
+node/3416542473,3416542473,node,bar,ramen;breakfast;local;pasta;pizza;curry;indian,,Café des arts,,Bhagwan Bahal Marga,yes,Bonsai restro & bar,Bonsai restro & bar,,,,,,,,,,,,,,,,,,,,2020-11-27T21:04:25Z,1.0
+node/3448046467,3448046467,node,bar,,,Cheers Bar,,,,,,,,,,,,,,,,,,,,,,,,,2017-08-22T04:42:28Z,1.0
+node/3605488689,3605488689,node,bar,,,Maya Cocktail Bar,,,,,,Kathmandu,NP,00977,Central Region,no,4700371,,,,,,,,,,,,,,2015-06-19T16:02:25Z,1.0
+node/4012267067,4012267067,node,bar,,,Shisha terrace Cafe n' Bar,,,,,,,,,,,01-4701104,,,,,,,,,,,,,,2016-02-18T08:48:20Z,1.0
+node/4104026289,4104026289,node,bar,,,Roots Restro and Bar Nepal,,Narsingh Chowk,,,,,,,,,977014700490,rootsbarnepal@gmail.com,Su-Th 12:00-23:30; Fr 12:00-00:00; Sa 13:00-00:00,,,,,,,,,,,,2016-04-19T16:43:08Z,1.0
+node/4327597890,4327597890,node,bar,asian;american;chicken;curry;indian;international;noodles,,Purple Haze,,Chaksibari Marg,,,,,,,,,,,Mo-Su 17:00-00:00,wlan,https://www.purplehazerockbar.com/,,,,,,,,,,2019-03-27T21:25:54Z,1.0
+node/4477409493,4477409493,node,bar,,,,,,,Roots,,,,,,,9851182528,,,,,,,,,,,,,,2016-11-02T18:04:34Z,1.0
+node/4527629090,4527629090,node,bar,,,,,,,Jazz Upstairs,,,,,,,,,,wlan,,,,,,,,,,,2017-02-11T14:05:48Z,1.0
+node/4555545492,4555545492,node,bar,,,,,,,Artmundo lounge,,,,,,,,,,,,,,,,,,,,,2016-12-15T13:45:31Z,1.0
+node/4665021794,4665021794,node,bar,,,,,,,Small Star,,,,,,,,,,,,,,,,,,,,,2017-03-13T08:15:28Z,1.0
+node/4675917591,4675917591,node,bar,,,,,,,Dorje restaurant,,,,,,,,,,,,,,,,,,,,,2017-02-09T05:27:10Z,1.0
+node/4697090889,4697090889,node,bar,,,,,,,House of Music,House of Music,,,,,,,,,,,,,,,,,,,,2017-02-21T10:46:14Z,1.0
+node/4762401054,4762401054,node,bar,,,,,,,Hole In The Wall,,,,,,,,,,,,,,,,,,,,,2017-03-29T17:34:06Z,1.0
+node/4774872364,4774872364,node,bar,,,,,,,Beta House,,,,,,,,,,,,,,,,,,,,,2017-04-04T14:22:45Z,1.0
+node/4774887621,4774887621,node,bar,,,,,,,Club Déjà Vu,,,,,,,,,,,,,,,,,,,,,2017-04-04T14:10:59Z,1.0
+node/4815643023,4815643023,node,bar,,,,,Potter Square,,Pottery Café,,,,977,,,+9779843269656,,Mo-Su 08:00-22:00,wlan,,,,,,,,,,,2017-04-25T13:40:39Z,1.0
+node/4830990522,4830990522,node,bar,,,,,,,Tiffany Restaurant & Bar,,,,,,,,,,,,,,,,,,,,,2018-11-21T07:09:35Z,1.0
+node/4858983921,4858983921,node,bar,,,Black & White Bar,,,,,,,,,,,,,,,,,,,,,,,,,2017-05-17T05:54:12Z,1.0
+node/4924452317,4924452317,node,bar,,,Potion Beverage House,,,,,,,,,,,,,,,,,,,,,,,,,2017-06-20T05:36:10Z,1.0
+node/4924452521,4924452521,node,bar,,,Samakhushi Wine Center,,,,,,,,,,,,,,,,,,,,,,,,,2017-06-29T04:31:23Z,1.0
+node/5062666626,5062666626,node,bar,,,,,Paknajol,,Shamrock Irish pub roof top cinema,,,,,,,,,Mo-Su 05:00-12:10,wlan,http://rooftopcinemaktm.com,,,,,,,,,,2017-08-27T19:08:47Z,1.0
+node/5064141221,5064141221,node,bar,,,,,khauma,,Kanxaram khajaghar,,,,,,,,,,wlan,,,,,,,,,,,2017-08-28T12:52:58Z,1.0
+node/5066973421,5066973421,node,bar,,,,,,,Shamrock Rooftop Bar,,,,,,,,,,,,,,,,,,,,,2017-08-29T16:17:47Z,1.0
+node/5080625421,5080625421,node,bar,,,,,khauma,,कान्छाराम खाजाघर,,,,,,,,,,,,,,,,,,,,,2017-09-05T02:38:30Z,1.0
+node/5107792731,5107792731,node,bar,local,,,,New Naikap,,Red House Restaurant,,,,977,,,,,Mo-Su 01:00-20:00,,,,,,,,,,,,2017-09-15T16:32:55Z,1.0
+node/5126206947,5126206947,node,bar,,,New Bishram Restaurant & Bar,,,,,,,,,,,,,,,,,,,,,,,,,2017-09-25T04:04:05Z,1.0
+node/5169018622,5169018622,node,bar,,,,,Jorpati Main Road,,Shrestha,,,,,,,,,Mo-Su 09:00-20:00,wlan,,,,,,,,,,,2017-10-15T13:16:57Z,1.0
+node/5180218321,5180218321,node,bar,,,,,,,Buddha Bar,,,,,,,,,,wlan,,Buddha Bar,,,,,,,,,2017-10-21T15:09:43Z,1.0
+node/5199608421,5199608421,node,bar,,,,,,,Buddha Bar and Maya Cocktail Bar,,,,,,,,,,,,,,,,,,,,,2017-10-30T08:10:09Z,1.0
+node/5209508125,5209508125,node,bar,,,,,,,Hole in the Wall,,,,,,,,,,,,,,,,,,,,,2017-11-04T05:06:47Z,1.0
+node/5273548621,5273548621,node,bar,,,,,,,jammin lounge and bar,,,,,,,,,,,,,,,,,,,,,2018-12-09T05:49:36Z,1.0
+node/5277649721,5277649721,node,bar,burger;sandwich;ice_cream;grill;cake;asian;coffee_shop;korean;pasta;austrian;pizza;chicken;diner;fish_and_chips;italian_pizza;curry;fish;french;tea;sausage;local;american;chinese,,,,राम मन्दिर पुल,yes,Diet Point Rooftop & Restaurant,,,,,,,,,Mo-Su 06:00-22:00,wlan,,,,,,,,,,,2020-12-15T15:02:45Z,1.0
+node/5342739024,5342739024,node,bar,,,,,,,Liquid happiness,,,,,,,,,,,,,,,,,,,,,2018-01-16T11:54:16Z,1.0
+node/5342739025,5342739025,node,bar,,,,,,,English bar,,,,,,,,,,,,,,,,,,,,,2018-01-16T11:54:17Z,1.0
+node/5351390922,5351390922,node,bar,,,,,Shringhkhala Galli,,SHAYOGINAGAR,,,,,,,,,Mo-Su 08:00-20:00,,,,,,,,,,,,2018-01-20T17:46:39Z,1.0
+node/5498800021,5498800021,node,bar,,,,,itachhen,,Rakesh Khaja Ghar,,,,,,,,,Mo-Su 11:00-21:00,wlan,,,,,,,,,,,2018-03-23T12:09:10Z,1.0
+node/5539196621,5539196621,node,bar,chicken;noodles;grill;asian,,,,,,Strings,,,,,,,9803303050,,,wlan,,,,,,,,,,,2018-04-09T04:40:04Z,1.0
+node/5561517527,5561517527,node,bar,american,,,,Sukedhara Marg,,Bender Beans,,,,44600,,,014015236,,Mo-Su 08:00-20:00,wlan,https://benderbeans.com/,,,,,,,,,,2019-03-24T03:33:55Z,1.0
+node/5564275225,5564275225,node,bar,,,,,,,The Cafe World,,,,,,,,,,,,,,,,,,,,,2018-04-19T12:26:29Z,1.0
+node/5630201621,5630201621,node,bar,international,,,,Narsingh Chowk,,Yeti Tap Room & Beer Garden,,,,,,,01-4215863,,Mo-Su 06:30-22:00,wlan,http://www.YetiTapRoomandBeerGarden.com/,,,,,,,,,,2018-05-20T10:09:23Z,1.0
+node/5931153085,5931153085,node,bar,,,,,,,Indra Pub,,,,,,,,,,,,,,,,,,,,,2018-11-12T09:26:22Z,1.0
+node/6031122715,6031122715,node,bar,,,Nasha Bar,,,,,,,,,,,,,,,,,no,no,,,,,,,2018-11-02T03:25:00Z,1.0
+node/6068079288,6068079288,node,bar,,,Los Escobar's,,,,,,,,,,,,,,,,,,,https://www.facebook.com/los.escobars/,,,,,,2019-01-07T18:46:52Z,1.0
+node/6078491985,6078491985,node,bar,,,,,,,Electric Pagoda,,,,,,,,,,,,,,,,,,,,,2018-11-21T08:30:57Z,1.0
+node/6198687485,6198687485,node,bar,,,,,,,Cheers lounge and bar,,,,,,,,,,,,,,,,,,,,,2019-01-10T15:16:26Z,1.0
+node/6231328428,6231328428,node,bar,,,Reggae Bar Thamel,,Chaksibari Marg,,,,,,,,,+977 9851053436,reggaebarthamel@gmail.com,,,http://reggaebarthamel.com/,,,,,https://www.facebook.com/reggaebarthamel,,,,,2019-01-23T23:30:42Z,1.0
+node/6324433886,6324433886,node,bar,,,,,,,Cooking school,,,,,,,,,,,,,,,,,,,,,2019-03-08T01:39:14Z,1.0
+node/6396390986,6396390986,node,bar,,,,,,,,,,,,,,,,,,,,,,,,חנות.. 2800 מעיל.. אולי 2500,,,,2019-04-10T13:48:50Z,1.0
+node/6399945585,6399945585,node,bar,,,,,,,Base Camp: Outdoor Lifestyle,,,,,,,984-1226397,,Mo-Su 10:00-22:00,,,,,,,,,,,,2019-04-12T05:30:10Z,1.0
+node/6459130787,6459130787,node,bar,,,,,,,Sajja catering,,,,,,,,,,,,,,,,,,,,,2019-05-08T16:44:04Z,1.0
+node/6596476992,6596476992,node,bar,,,,,,,Beers N Cheers,,,,,,,,,,,,,,,,,,,,,2019-07-08T13:22:18Z,1.0
+node/7173977787,7173977787,node,bar,,,,,,,,,,,,,,,,,,,,,,,,,бар без вайфая,,,2020-01-31T04:05:04Z,1.0
+node/7176778585,7176778585,node,bar,,,,,,,Cityscape Lounge & Bar,,,,,,,,,,,,,,,,,,,,,2020-02-01T08:38:54Z,1.0
+node/7291571085,7291571085,node,bar,asian,,,,Saat Ghumti Marg,,Grasshopper Cafe and Bar,,,,44600,,,+9779841225722,grasshoppercafeandbar@gmail.com,,wlan,,,,,,,,,,,2020-03-13T11:30:09Z,1.0
+node/7314440085,7314440085,node,bar,,,,,Chaksibari Marg,,Shisha lounge and bar,,,,,,,,,Mo-Su 12:00-01:00,wlan,,,,,,,,,,,2020-03-21T06:10:02Z,1.0
+node/7730897991,7730897991,node,bar,,,,,,,,,,,,,,,,,,,,,,,,,,,,2020-07-20T10:54:15Z,1.0
+node/7817062283,7817062283,node,bar,,,Elements Cafe,,,,,,,,,,,,,,,,,,,,,,,,,2020-08-16T11:18:32Z,1.0
+way/178915318,178915318,way,bar,,,The Blue Room Restro Lounge,,,,,,,,,,,,,,,,,,,,,,,"[1892722608, 1892722606, 1892722614, 1892722618, 3654538211, 3654538212, 1892722608]",yes,2015-09-04T12:33:18Z,1.0
+way/204881928,204881928,way,bar,,,Attic Bar,,,,,,,,,,,,,,,http://www.attic.com.np/,,,,,,,,"[2148629476, 2148629472, 2148629471, 2148629469, 2148629470, 2148629474, 2148629473, 2148629475, 2148629476]",yes,2020-03-30T10:51:33Z,1.0

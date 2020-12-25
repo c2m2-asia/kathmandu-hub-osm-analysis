@@ -1,0 +1,10 @@
+unique_id,osmid,element_type,amenity,name,addr:city,addr:postcode,addr:street,level,operator,website,name:en,internet_access,phone,timestamp,completeness_score
+node/1964968475,1964968475,node,nightclub,Factory,,,,,,,,,,2013-02-21T12:00:26Z,0.5
+node/3095840822,3095840822,node,nightclub,Thamel Kishan Club,,,,,,,,,,2020-03-04T06:03:35Z,0.5
+node/3341634377,3341634377,node,nightclub,Night Queen Dance Bar,,,,,,,,,,2020-05-11T18:03:27Z,0.5
+node/3632902993,3632902993,node,nightclub,Club 25 Hours,Kathmandu,44600,Gahana Pokhari Marga,-1,Tangal Wood,http://www.tangal-wood.com/club-25-hours/,,,,2015-07-17T06:44:17Z,0.5
+node/4406793090,4406793090,node,nightclub,,,,,,,,Mystic,,,2016-09-18T13:06:03Z,0.5
+node/4767236868,4767236868,node,nightclub,,,,Durbar Marg,,,,Victory,,,2020-05-08T12:32:23Z,0.5
+node/4767787443,4767787443,node,nightclub,,,,,,,,De Ja Vu,,,2017-03-31T17:06:51Z,0.5
+node/4767787531,4767787531,node,nightclub,Ibyza,,,,2,,,Ibyza,,,2017-04-04T04:02:59Z,0.5
+node/6239145885,6239145885,node,nightclub,,,,Arniko Raj Marga,,Sangita,,Highway Night Club,wlan,9843073087,2019-01-27T06:36:28Z,0.5
