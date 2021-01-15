@@ -1,4 +1,4 @@
-# kathmandu-hub-osm-analysis
+# kathmandu-osm-analysis
 This repository contains Python scripts that check OSM data completeness and recency for tourism amenities in Kathmandu.
 
 First, OSM data within a given geojson bounds is extracted using the `osmnx` python library. After this, by making requests to the Overpass API, we look at the latest date at which each entity is modified. Finally, after joining these two datasets, we generate summary statisics and time series plots to understand attribute coverage and data recency.
